@@ -1,0 +1,12 @@
+[INFO] 29-11-2024 20:55:46 [main] [Tests.CreateAccountTest.setup(TC02_CreateAccount.java:29)] - Browser was opened
+[INFO] 29-11-2024 20:55:49 [main] [Tests.CreateAccountTest.setup(TC02_CreateAccount.java:31)] -  Browser is redirected to the HOME URL
+[INFO] 29-11-2024 20:55:49 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] -  Test Case createAnAccount started
+[INFO] 29-11-2024 20:55:59 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:35)] -  Test Case createAnAccount Failed 
+[INFO] 29-11-2024 20:56:02 [main] [Tests.Add2ProductsToCompareListTest.setup(TC04_Add2ProductsToCompareList.java:23)] - Browser was opened
+[INFO] 29-11-2024 20:56:04 [main] [Tests.Add2ProductsToCompareListTest.setup(TC04_Add2ProductsToCompareList.java:25)] -  Browser is redirected to the HOME URL
+[INFO] 29-11-2024 20:56:04 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] -  Test Case addFirstProductToCompareList started
+[INFO] 29-11-2024 20:56:15 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:35)] -  Test Case addFirstProductToCompareList Failed 
+[INFO] 29-11-2024 20:56:17 [main] [Tests.Add2ProductsToCompareListTest.setup(TC04_Add2ProductsToCompareList.java:23)] - Browser was opened
+[INFO] 29-11-2024 20:56:20 [main] [Tests.Add2ProductsToCompareListTest.setup(TC04_Add2ProductsToCompareList.java:25)] -  Browser is redirected to the HOME URL
+[INFO] 29-11-2024 20:56:20 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] -  Test Case addSecondProductToCompareList started
+[INFO] 29-11-2024 20:56:30 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:35)] -  Test Case addSecondProductToCompareList Failed 

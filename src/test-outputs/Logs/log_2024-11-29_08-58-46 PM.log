@@ -1,0 +1,15 @@
+[INFO] 29-11-2024 20:58:46 [main] [Tests.CreateAccountTest.setup(TC02_CreateAccount.java:29)] - Browser was opened
+[INFO] 29-11-2024 20:58:50 [main] [Tests.CreateAccountTest.setup(TC02_CreateAccount.java:31)] -  Browser is redirected to the HOME URL
+[INFO] 29-11-2024 20:58:50 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] -  Test Case createAnAccount started
+[INFO] 29-11-2024 20:58:53 [main] [Tests.CreateAccountTest.createAnAccount(TC02_CreateAccount.java:151)] - Account is created
+[INFO] 29-11-2024 20:58:53 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:14)] -  Test Case createAnAccount Passed 
+[INFO] 29-11-2024 20:58:55 [main] [Tests.Add2ProductsToCompareListTest.setup(TC04_Add2ProductsToCompareList.java:23)] - Browser was opened
+[INFO] 29-11-2024 20:58:58 [main] [Tests.Add2ProductsToCompareListTest.setup(TC04_Add2ProductsToCompareList.java:25)] -  Browser is redirected to the HOME URL
+[INFO] 29-11-2024 20:58:58 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] -  Test Case addFirstProductToCompareList started
+[INFO] 29-11-2024 20:59:00 [main] [Tests.Add2ProductsToCompareListTest.addFirstProductToCompareList(TC04_Add2ProductsToCompareList.java:42)] - the product is added to compare list
+[INFO] 29-11-2024 20:59:00 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:14)] -  Test Case addFirstProductToCompareList Passed 
+[INFO] 29-11-2024 20:59:02 [main] [Tests.Add2ProductsToCompareListTest.setup(TC04_Add2ProductsToCompareList.java:23)] - Browser was opened
+[INFO] 29-11-2024 20:59:05 [main] [Tests.Add2ProductsToCompareListTest.setup(TC04_Add2ProductsToCompareList.java:25)] -  Browser is redirected to the HOME URL
+[INFO] 29-11-2024 20:59:05 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] -  Test Case addSecondProductToCompareList started
+[INFO] 29-11-2024 20:59:07 [main] [Tests.Add2ProductsToCompareListTest.addSecondProductToCompareList(TC04_Add2ProductsToCompareList.java:56)] - the product is added to compare list
+[INFO] 29-11-2024 20:59:07 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:14)] -  Test Case addSecondProductToCompareList Passed 

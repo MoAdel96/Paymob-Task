@@ -1,0 +1,10 @@
+{
+  "PersonalInformation": {
+    "FirstName": "fName_",
+    "LastName": "lName_"
+  },
+  "SignINInformation": {
+    "Email": "Email_",
+    "Password": "Mohamed@123"
+  }
+}

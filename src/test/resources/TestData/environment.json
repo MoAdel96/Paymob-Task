@@ -1,0 +1,6 @@
+{
+  "Browser": "edge",
+  "HOME_URL": "https://magento.softwaretestingboard.com/",
+  "SIGNUP_URL": "https://magento.softwaretestingboard.com/customer/account/create/",
+  "ACCOUNT_URL": "https://magento.softwaretestingboard.com/customer/account/"
+}

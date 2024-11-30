@@ -1,0 +1,3 @@
+[INFO] 29-11-2024 21:51:38 [main] [Tests.Add2ProductsToCompareListTest.setup(TC04_Add2ProductsToCompareList.java:23)] - Browser was opened
+[INFO] 29-11-2024 21:51:42 [main] [Tests.Add2ProductsToCompareListTest.setup(TC04_Add2ProductsToCompareList.java:25)] -  Browser is redirected to the HOME URL
+[INFO] 29-11-2024 21:51:47 [main] [Tests.Add2ProductsToCompareListTest.addTwoProductsToCompareList(TC04_Add2ProductsToCompareList.java:71)] - Account is created

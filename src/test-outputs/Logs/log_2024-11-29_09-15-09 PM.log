@@ -1,0 +1,9 @@
+[INFO] 29-11-2024 21:15:09 [main] [Tests.CreateAccountTest.setup(TC02_CreateAccount.java:28)] - Browser was opened
+[INFO] 29-11-2024 21:15:12 [main] [Tests.CreateAccountTest.setup(TC02_CreateAccount.java:30)] -  Browser is redirected to the HOME URL
+[INFO] 29-11-2024 21:15:14 [main] [Tests.CreateAccountTest.OpenSignUpPage(TC02_CreateAccount.java:49)] - Signup page is opened successfully
+[INFO] 29-11-2024 21:15:18 [main] [Tests.CreateAccountTest.setup(TC02_CreateAccount.java:28)] - Browser was opened
+[INFO] 29-11-2024 21:15:21 [main] [Tests.CreateAccountTest.setup(TC02_CreateAccount.java:30)] -  Browser is redirected to the HOME URL
+[INFO] 29-11-2024 21:15:34 [main] [Tests.CreateAccountTest.setup(TC02_CreateAccount.java:28)] - Browser was opened
+[INFO] 29-11-2024 21:15:35 [main] [Tests.CreateAccountTest.setup(TC02_CreateAccount.java:30)] -  Browser is redirected to the HOME URL
+[INFO] 29-11-2024 21:15:44 [main] [Tests.CreateAccountTest.setup(TC02_CreateAccount.java:28)] - Browser was opened
+[INFO] 29-11-2024 21:15:47 [main] [Tests.CreateAccountTest.setup(TC02_CreateAccount.java:30)] -  Browser is redirected to the HOME URL

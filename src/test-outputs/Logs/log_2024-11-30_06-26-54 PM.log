@@ -1,0 +1,6 @@
+[INFO] 30-11-2024 18:26:54 [main] [Tests.Add2ProductsToCompareListTest.setup(Add2ProductsToCompareListTest.java:27)] - Browser was opened
+[INFO] 30-11-2024 18:26:59 [main] [Tests.Add2ProductsToCompareListTest.setup(Add2ProductsToCompareListTest.java:29)] -  Browser is redirected to the HOME URL
+[INFO] 30-11-2024 18:26:59 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] -  Test Case addTwoProductsToCompareList started
+[INFO] 30-11-2024 18:27:06 [main] [Tests.Add2ProductsToCompareListTest.addTwoProductsToCompareList(Add2ProductsToCompareListTest.java:79)] - Account is created
+[INFO] 30-11-2024 18:27:13 [main] [Tests.Add2ProductsToCompareListTest.addTwoProductsToCompareList(Add2ProductsToCompareListTest.java:86)] - the product is added to compare list
+[INFO] 30-11-2024 18:27:13 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:14)] -  Test Case addTwoProductsToCompareList Passed 
